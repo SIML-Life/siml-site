@@ -1,22 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ site.title }}</title>
-  <script 
-  src="https://www.paypal.com/sdk/js?client-id=BAAtnM4OGF9ojhsFiRJeXMnPaZhznqJmB1qYC2Fbk2AmVmGa_yjo2bxz8AMtP8rfFdMLrZ2Dl5xy2Z0ApU&components=hosted-buttons&enable-funding=venmo&currency=USD">
-</script>
-</head>
-<body>
-
-  {{ content }}
-
-  <div id="paypal-container-HDSHEG4UKGRHN"></div>
-<script>
-  paypal.HostedButtons({
-    hostedButtonId: "HDSHEG4UKGRHN",
-  }).render("#paypal-container-HDSHEG4UKGRHN")
-</script>
-
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ site.title }}</title>
+    <script src="https://www.paypal.com/sdk/js?client-id=BAAtnM4OGF9ojhsFiRJeXMnPaZhznqJmB1qYC2Fbk2AmVmGa_yjo2bxz8AMtP8rfFdMLrZ2Dl5xy2Z0ApU&components=hosted-buttons&enable-funding=venmo&currency=USD"></script>
+  </head>
+  <body>
+    <div style="padding: 1.5em">{{ content }}
+    <div id="paypal-container-HDSHEG4UKGRHN"></div>
+    </div>
+    <script>
+      paypal
+        .HostedButtons({
+          hostedButtonId: "HDSHEG4UKGRHN",
+        })
+        .render("#paypal-container-HDSHEG4UKGRHN");
+    </script>
+  </body>
 </html>
