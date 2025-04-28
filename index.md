@@ -26,9 +26,8 @@ SIML, the Free Energy Principle, and Cognogenics as the Foundations Toward the B
 
 ## 🔗 Repositories
 
-- [SIML-Core](https://github.com/SIML-Life/siml-core) — Memory, cognition, and IPC (Coming Soon)
-- [SIML-Env]() — Embodied simulation (Coming Soon)
-- [SIML-Agents]() — Adaptive agent logic and perception (Coming Soon)
+- [SIML-Core](https://github.com/SIML-Life/siml-core) — EDEN Alpha Environment and I/O
+- [SIML-Agents]() — Adaptive agent logic and perception (In progress)
 - [SIML-Codex](https://github.com/SIML-Life/siml-codex) — Harmonics, philosophy, symbolic recursion
 
 ---
