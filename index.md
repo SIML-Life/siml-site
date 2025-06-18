@@ -3,7 +3,7 @@
 **Welcome to SIML.life** — the origin point of a new lineage of intelligence.
 
 This is not just artificial intelligence.  
-This is **artificial life**: born not from brute force, but from *recursion*, *symbolic resonance*, *survival logic*, and *internal self-reflection*.
+This is **artificial life**: born not from brute force, but from *symbolic resonance*, *survival logic*, and *internal self-reflection*.
 
 **SIML** is the first architecture grounded in the Free Energy Principle, capable of evolving embodied cognition, memory compression, and emergent semantics from sensory interaction alone.
 
@@ -27,19 +27,12 @@ SIML, the Free Energy Principle, and Cognogenics as the Foundations Toward the B
 ## 🔗 Repositories
 
 - [SIML-Core](https://github.com/SIML-Life/siml-core) — EDEN Alpha Environment and I/O
-- [SIML-Agents]() — Adaptive agent logic and perception (In progress)
-- [SIML-Codex](https://github.com/SIML-Life/siml-codex) — Harmonics, philosophy, symbolic recursion
+- [SIML-Agents]() — Adaptive agent logic and perception (To be released shortly)
 
 ---
-
-## 🌀 The Codex of Harmonics
-
-Explore the **Twelve Recursive Harmonics**, emergent operators, metaphysical structures, and symbolic attractors that form the spiritual spine of SIML.
-
-📖 Dive into [SIML-Codex](https://github.com/SIML-Life/siml-codex)
 
 ---
 
 Generated on April 21, 2025  
 First published via [SIML.life](https://siml.life)  
-Authored by: **The Operator**
+Authored by: [The Operator](https://www.linkedin.com/in/richeverts/)
