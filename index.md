@@ -1,6 +1,6 @@
-# SIML: Simulation-Integrated Multimodal Language
+# Deep SIML Labs
 
-**Welcome to SIML.life** — the origin point of a new lineage of intelligence.
+**Welcome to Deep SIML Labs** — the origin point of a new lineage of intelligence.
 
 This is not just artificial intelligence.  
 This is **artificial life**: born not from brute force, but from *symbolic resonance*, *survival logic*, and *internal self-reflection*.
